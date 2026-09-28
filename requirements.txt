@@ -1,0 +1,5 @@
+streamlit==1.30.0
+langchain==1.2.0
+langchain-community==0.3.31
+chromadb==0.4.3
+pypdf==3.16.0
